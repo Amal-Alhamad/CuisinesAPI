@@ -23,8 +23,9 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 - **PostgreSQL**: The database management system.
 
 # DATABASE Schema:  
-<img width="782" alt="ClassDigramCuisinesAPI.png" >
-![Class Diagram](images/ClassDigramCuisinesAPI.png)
+<p align="center">
+  <img src="images/ClassDigramCuisinesAPI.png" width="500"/>
+</p>
 
 
 
