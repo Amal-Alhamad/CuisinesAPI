@@ -24,6 +24,7 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 
 # DATABASE Schema:  
 <img width="782" alt="ClassDigramCuisinesAPI.png" >
+![Database Schema](ClassDigramCuisinesAPI.png)
 
 
 
