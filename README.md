@@ -23,7 +23,7 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 - **PostgreSQL**: The database management system.
 
 # DATABASE Schema:  
-<img width="782" alt="Screenshot 1445-08-16 at 1 53 07 PM" src="https://github.com/Amal-Alhamad/CuisinesAPI/assets/47658637/979bd015-6531-4585-8d1b-ef332b787ec5">
+<img width="782" alt="Screenshot 1445-08-16 at 1 53 07 PM" src="https://github.com/NoufAlsultan/CuisinesAPI/assets/47658637/979bd015-6531-4585-8d1b-ef332b787ec5">
 
 # Authors:  
 I would like to extend my sincere thanks to my exceptional team members, Haifa Muhammad, and Nouf Sultan, for their invaluable contributions and collaboration throughout this project. Working with both of you has been a true pleasure, and I thoroughly enjoyed every moment of our teamwork.🩵
