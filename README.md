@@ -22,7 +22,7 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 - **Fluent**: ORM for database interaction.  
 - **PostgreSQL**: The database management system.
 
-# DATABASE Schema:  
+# Database Schema:  
   <img src="images/ClassDigramCuisinesAPI.png" width="500"/>
 
 
