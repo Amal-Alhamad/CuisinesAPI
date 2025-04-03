@@ -23,9 +23,8 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 - **PostgreSQL**: The database management system.
 
 # DATABASE Schema:  
-<p align="center">
   <img src="images/ClassDigramCuisinesAPI.png" width="500"/>
-</p>
+
 
 
 
