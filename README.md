@@ -23,11 +23,9 @@ A RESTful API connected to a PSQL database, designed to support recipe managemen
 - **PostgreSQL**: The database management system.
 
 # DATABASE Schema:  
-<img width="782" alt="Screenshot 1445-08-16 at 1 53 07 PM" src="https://github.com/noufhAlsultan/CuisinesAPI/assets/47658637/979bd015-6531-4585-8d1b-ef332b787ec5">
+<img width="782" alt="ClassDigramCuisinesAPI.png" >
 
-git add ClassDigramCuisinesAPI.png
-git commit -m "Add class diagram for Cuisines API"
-git push origin main
+
 
 
 # Authors:  
